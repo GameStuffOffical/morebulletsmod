@@ -8,7 +8,7 @@ name: "more-bullets-mod"
 author: "GameStuff"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "morebulletsmod.main"
 
 #the mod description as seen in the mod dialog
 description: "Adds more bullets for modders."
